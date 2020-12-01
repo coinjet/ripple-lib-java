@@ -1,9 +1,9 @@
-The Ripple Java Library
+The Divvy Java Library
 ===============
 
-[![Build Status](https://travis-ci.org/ripple/ripple-lib-java.png?branch=master)](https://travis-ci.org/ripple/ripple-lib-java)
+[![Build Status](https://travis-ci.org/xdv/divvy-lib-java.png?branch=master)](https://travis-ci.org/xdv/divvy-lib-java)
 
-Java version of ripple-lib (alpha work in progress)
+Java version of divvy-lib (alpha work in progress)
 
 Currently looking for java/android developers to help evolve this library/api.
 
@@ -39,9 +39,9 @@ the basis for various clients/wallets.
 
 ### Docs
 
-  - [ShaMap](ripple-core/src/main/java/com/ripple/core/types/shamap/README.md)
-  - [Serialized Types](ripple-core/README.md)
-  - [Transaction Manager](ripple-client/src/main/java/com/ripple/client/transactions/README.md)
+  - [ShaMap](divvy-core/src/main/java/com/divvy/core/types/shamap/README.md)
+  - [Serialized Types](divvy-core/README.md)
+  - [Transaction Manager](divvy-client/src/main/java/com/divvy/client/transactions/README.md)
 
 ### TODO
   - More helper classes
